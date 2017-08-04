@@ -1,0 +1,10 @@
+server:
+  port: 9000
+spring:
+  data:
+    neo4j:
+      uri:
+      username: neo4j
+      password:
+etherscan:
+  apikey:
